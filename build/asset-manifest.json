@@ -1,13 +1,13 @@
 {
-  "main.css": "./static/css/main.c4f3151a.chunk.css",
-  "main.js": "./static/js/main.64751d70.chunk.js",
-  "main.js.map": "./static/js/main.64751d70.chunk.js.map",
-  "static/js/1.c119ae31.chunk.js": "./static/js/1.c119ae31.chunk.js",
-  "static/js/1.c119ae31.chunk.js.map": "./static/js/1.c119ae31.chunk.js.map",
-  "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
-  "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
-  "static/css/main.c4f3151a.chunk.css.map": "./static/css/main.c4f3151a.chunk.css.map",
-  "index.html": "./index.html",
-  "precache-manifest.43444e2a4031f4dd8b31c78898619e02.js": "./precache-manifest.43444e2a4031f4dd8b31c78898619e02.js",
-  "service-worker.js": "./service-worker.js"
+  "main.css": "saltyNoodles.github.io/360-image-viewer/static/css/main.c4f3151a.chunk.css",
+  "main.js": "saltyNoodles.github.io/360-image-viewer/static/js/main.9fb6f1a4.chunk.js",
+  "main.js.map": "saltyNoodles.github.io/360-image-viewer/static/js/main.9fb6f1a4.chunk.js.map",
+  "static/js/1.0080e511.chunk.js": "saltyNoodles.github.io/360-image-viewer/static/js/1.0080e511.chunk.js",
+  "static/js/1.0080e511.chunk.js.map": "saltyNoodles.github.io/360-image-viewer/static/js/1.0080e511.chunk.js.map",
+  "runtime~main.js": "saltyNoodles.github.io/360-image-viewer/static/js/runtime~main.7c581b94.js",
+  "runtime~main.js.map": "saltyNoodles.github.io/360-image-viewer/static/js/runtime~main.7c581b94.js.map",
+  "static/css/main.c4f3151a.chunk.css.map": "saltyNoodles.github.io/360-image-viewer/static/css/main.c4f3151a.chunk.css.map",
+  "index.html": "saltyNoodles.github.io/360-image-viewer/index.html",
+  "precache-manifest.524d17a6fecf9420eeeceead61b7a2de.js": "saltyNoodles.github.io/360-image-viewer/precache-manifest.524d17a6fecf9420eeeceead61b7a2de.js",
+  "service-worker.js": "saltyNoodles.github.io/360-image-viewer/service-worker.js"
 }
