@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "pointsmap.github.io/360-image-viewer/precache-manifest.3ad4888c7656f92e54fe0f256d988ec0.js"
+  "/360-image-viewer/precache-manifest.322dba775bc2c217e89d80a29c444546.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("pointsmap.github.io/360-image-viewer/index.html", {
+workbox.routing.registerNavigationRoute("/360-image-viewer/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

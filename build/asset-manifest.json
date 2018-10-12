@@ -1,13 +1,13 @@
 {
-  "main.css": "pointsmap.github.io/360-image-viewer/static/css/main.c4f3151a.chunk.css",
-  "main.js": "pointsmap.github.io/360-image-viewer/static/js/main.bb8b8dbe.chunk.js",
-  "main.js.map": "pointsmap.github.io/360-image-viewer/static/js/main.bb8b8dbe.chunk.js.map",
-  "static/js/1.b73d3583.chunk.js": "pointsmap.github.io/360-image-viewer/static/js/1.b73d3583.chunk.js",
-  "static/js/1.b73d3583.chunk.js.map": "pointsmap.github.io/360-image-viewer/static/js/1.b73d3583.chunk.js.map",
-  "runtime~main.js": "pointsmap.github.io/360-image-viewer/static/js/runtime~main.67d36d09.js",
-  "runtime~main.js.map": "pointsmap.github.io/360-image-viewer/static/js/runtime~main.67d36d09.js.map",
-  "static/css/main.c4f3151a.chunk.css.map": "pointsmap.github.io/360-image-viewer/static/css/main.c4f3151a.chunk.css.map",
-  "index.html": "pointsmap.github.io/360-image-viewer/index.html",
-  "precache-manifest.3ad4888c7656f92e54fe0f256d988ec0.js": "pointsmap.github.io/360-image-viewer/precache-manifest.3ad4888c7656f92e54fe0f256d988ec0.js",
-  "service-worker.js": "pointsmap.github.io/360-image-viewer/service-worker.js"
+  "main.css": "/360-image-viewer/static/css/main.c4f3151a.chunk.css",
+  "main.js": "/360-image-viewer/static/js/main.1b14c18b.chunk.js",
+  "main.js.map": "/360-image-viewer/static/js/main.1b14c18b.chunk.js.map",
+  "static/js/1.e6c772bc.chunk.js": "/360-image-viewer/static/js/1.e6c772bc.chunk.js",
+  "static/js/1.e6c772bc.chunk.js.map": "/360-image-viewer/static/js/1.e6c772bc.chunk.js.map",
+  "runtime~main.js": "/360-image-viewer/static/js/runtime~main.ffa545b9.js",
+  "runtime~main.js.map": "/360-image-viewer/static/js/runtime~main.ffa545b9.js.map",
+  "static/css/main.c4f3151a.chunk.css.map": "/360-image-viewer/static/css/main.c4f3151a.chunk.css.map",
+  "index.html": "/360-image-viewer/index.html",
+  "precache-manifest.322dba775bc2c217e89d80a29c444546.js": "/360-image-viewer/precache-manifest.322dba775bc2c217e89d80a29c444546.js",
+  "service-worker.js": "/360-image-viewer/service-worker.js"
 }

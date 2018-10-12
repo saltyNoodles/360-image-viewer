@@ -20,7 +20,7 @@
     "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "pointsmap.github.io/360-image-viewer/",
+  "homepage": "https://saltynoodles.github.io/360-image-viewer/",
   "eslintConfig": {
     "extends": "react-app"
   },
