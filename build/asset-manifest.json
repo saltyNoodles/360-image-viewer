@@ -1,13 +1,13 @@
 {
   "main.css": "pointsmap.github.io/360-image-viewer/static/css/main.c4f3151a.chunk.css",
-  "main.js": "pointsmap.github.io/360-image-viewer/static/js/main.5a5b71d1.chunk.js",
-  "main.js.map": "pointsmap.github.io/360-image-viewer/static/js/main.5a5b71d1.chunk.js.map",
+  "main.js": "pointsmap.github.io/360-image-viewer/static/js/main.bb8b8dbe.chunk.js",
+  "main.js.map": "pointsmap.github.io/360-image-viewer/static/js/main.bb8b8dbe.chunk.js.map",
   "static/js/1.b73d3583.chunk.js": "pointsmap.github.io/360-image-viewer/static/js/1.b73d3583.chunk.js",
   "static/js/1.b73d3583.chunk.js.map": "pointsmap.github.io/360-image-viewer/static/js/1.b73d3583.chunk.js.map",
   "runtime~main.js": "pointsmap.github.io/360-image-viewer/static/js/runtime~main.67d36d09.js",
   "runtime~main.js.map": "pointsmap.github.io/360-image-viewer/static/js/runtime~main.67d36d09.js.map",
   "static/css/main.c4f3151a.chunk.css.map": "pointsmap.github.io/360-image-viewer/static/css/main.c4f3151a.chunk.css.map",
   "index.html": "pointsmap.github.io/360-image-viewer/index.html",
-  "precache-manifest.918036a08beca022d4d807ba9d8149e1.js": "pointsmap.github.io/360-image-viewer/precache-manifest.918036a08beca022d4d807ba9d8149e1.js",
+  "precache-manifest.3ad4888c7656f92e54fe0f256d988ec0.js": "pointsmap.github.io/360-image-viewer/precache-manifest.3ad4888c7656f92e54fe0f256d988ec0.js",
   "service-worker.js": "pointsmap.github.io/360-image-viewer/service-worker.js"
 }

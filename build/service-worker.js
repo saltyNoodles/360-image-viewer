@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "pointsmap.github.io/360-image-viewer/precache-manifest.918036a08beca022d4d807ba9d8149e1.js"
+  "pointsmap.github.io/360-image-viewer/precache-manifest.3ad4888c7656f92e54fe0f256d988ec0.js"
 );
 
 workbox.clientsClaim();
