@@ -1,13 +1,13 @@
 {
-  "main.css": "saltyNoodles.github.io/360-image-viewer/static/css/main.c4f3151a.chunk.css",
-  "main.js": "saltyNoodles.github.io/360-image-viewer/static/js/main.9fb6f1a4.chunk.js",
-  "main.js.map": "saltyNoodles.github.io/360-image-viewer/static/js/main.9fb6f1a4.chunk.js.map",
-  "static/js/1.0080e511.chunk.js": "saltyNoodles.github.io/360-image-viewer/static/js/1.0080e511.chunk.js",
-  "static/js/1.0080e511.chunk.js.map": "saltyNoodles.github.io/360-image-viewer/static/js/1.0080e511.chunk.js.map",
-  "runtime~main.js": "saltyNoodles.github.io/360-image-viewer/static/js/runtime~main.7c581b94.js",
-  "runtime~main.js.map": "saltyNoodles.github.io/360-image-viewer/static/js/runtime~main.7c581b94.js.map",
-  "static/css/main.c4f3151a.chunk.css.map": "saltyNoodles.github.io/360-image-viewer/static/css/main.c4f3151a.chunk.css.map",
-  "index.html": "saltyNoodles.github.io/360-image-viewer/index.html",
-  "precache-manifest.524d17a6fecf9420eeeceead61b7a2de.js": "saltyNoodles.github.io/360-image-viewer/precache-manifest.524d17a6fecf9420eeeceead61b7a2de.js",
-  "service-worker.js": "saltyNoodles.github.io/360-image-viewer/service-worker.js"
+  "main.css": "pointsmap.github.io/360-image-viewer/static/css/main.c4f3151a.chunk.css",
+  "main.js": "pointsmap.github.io/360-image-viewer/static/js/main.5a5b71d1.chunk.js",
+  "main.js.map": "pointsmap.github.io/360-image-viewer/static/js/main.5a5b71d1.chunk.js.map",
+  "static/js/1.b73d3583.chunk.js": "pointsmap.github.io/360-image-viewer/static/js/1.b73d3583.chunk.js",
+  "static/js/1.b73d3583.chunk.js.map": "pointsmap.github.io/360-image-viewer/static/js/1.b73d3583.chunk.js.map",
+  "runtime~main.js": "pointsmap.github.io/360-image-viewer/static/js/runtime~main.67d36d09.js",
+  "runtime~main.js.map": "pointsmap.github.io/360-image-viewer/static/js/runtime~main.67d36d09.js.map",
+  "static/css/main.c4f3151a.chunk.css.map": "pointsmap.github.io/360-image-viewer/static/css/main.c4f3151a.chunk.css.map",
+  "index.html": "pointsmap.github.io/360-image-viewer/index.html",
+  "precache-manifest.918036a08beca022d4d807ba9d8149e1.js": "pointsmap.github.io/360-image-viewer/precache-manifest.918036a08beca022d4d807ba9d8149e1.js",
+  "service-worker.js": "pointsmap.github.io/360-image-viewer/service-worker.js"
 }
