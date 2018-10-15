@@ -1,13 +1,13 @@
 {
-  "main.css": "saltyNoodles.github.io/360-image-viewer/static/css/main.c4f3151a.chunk.css",
-  "main.js": "saltyNoodles.github.io/360-image-viewer/static/js/main.9fb6f1a4.chunk.js",
-  "main.js.map": "saltyNoodles.github.io/360-image-viewer/static/js/main.9fb6f1a4.chunk.js.map",
-  "static/js/1.0080e511.chunk.js": "saltyNoodles.github.io/360-image-viewer/static/js/1.0080e511.chunk.js",
-  "static/js/1.0080e511.chunk.js.map": "saltyNoodles.github.io/360-image-viewer/static/js/1.0080e511.chunk.js.map",
-  "runtime~main.js": "saltyNoodles.github.io/360-image-viewer/static/js/runtime~main.7c581b94.js",
-  "runtime~main.js.map": "saltyNoodles.github.io/360-image-viewer/static/js/runtime~main.7c581b94.js.map",
-  "static/css/main.c4f3151a.chunk.css.map": "saltyNoodles.github.io/360-image-viewer/static/css/main.c4f3151a.chunk.css.map",
-  "index.html": "saltyNoodles.github.io/360-image-viewer/index.html",
-  "precache-manifest.524d17a6fecf9420eeeceead61b7a2de.js": "saltyNoodles.github.io/360-image-viewer/precache-manifest.524d17a6fecf9420eeeceead61b7a2de.js",
-  "service-worker.js": "saltyNoodles.github.io/360-image-viewer/service-worker.js"
+  "main.css": "/360-image-viewer/static/css/main.c4f3151a.chunk.css",
+  "main.js": "/360-image-viewer/static/js/main.1b14c18b.chunk.js",
+  "main.js.map": "/360-image-viewer/static/js/main.1b14c18b.chunk.js.map",
+  "static/js/1.e6c772bc.chunk.js": "/360-image-viewer/static/js/1.e6c772bc.chunk.js",
+  "static/js/1.e6c772bc.chunk.js.map": "/360-image-viewer/static/js/1.e6c772bc.chunk.js.map",
+  "runtime~main.js": "/360-image-viewer/static/js/runtime~main.ffa545b9.js",
+  "runtime~main.js.map": "/360-image-viewer/static/js/runtime~main.ffa545b9.js.map",
+  "static/css/main.c4f3151a.chunk.css.map": "/360-image-viewer/static/css/main.c4f3151a.chunk.css.map",
+  "index.html": "/360-image-viewer/index.html",
+  "precache-manifest.322dba775bc2c217e89d80a29c444546.js": "/360-image-viewer/precache-manifest.322dba775bc2c217e89d80a29c444546.js",
+  "service-worker.js": "/360-image-viewer/service-worker.js"
 }
