@@ -20,7 +20,7 @@
     "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://saltynoodles.github.io/360-image-viewer/",
+  "homepage": "https://saltynoodles.github.io/360-image-viewer",
   "eslintConfig": {
     "extends": "react-app"
   },
@@ -29,5 +29,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
