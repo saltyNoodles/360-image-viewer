@@ -1,13 +1,13 @@
 {
-  "main.css": "/360-image-viewer/static/css/main.c4f3151a.chunk.css",
-  "main.js": "/360-image-viewer/static/js/main.1b14c18b.chunk.js",
-  "main.js.map": "/360-image-viewer/static/js/main.1b14c18b.chunk.js.map",
-  "static/js/1.e6c772bc.chunk.js": "/360-image-viewer/static/js/1.e6c772bc.chunk.js",
-  "static/js/1.e6c772bc.chunk.js.map": "/360-image-viewer/static/js/1.e6c772bc.chunk.js.map",
-  "runtime~main.js": "/360-image-viewer/static/js/runtime~main.ffa545b9.js",
-  "runtime~main.js.map": "/360-image-viewer/static/js/runtime~main.ffa545b9.js.map",
-  "static/css/main.c4f3151a.chunk.css.map": "/360-image-viewer/static/css/main.c4f3151a.chunk.css.map",
-  "index.html": "/360-image-viewer/index.html",
-  "precache-manifest.322dba775bc2c217e89d80a29c444546.js": "/360-image-viewer/precache-manifest.322dba775bc2c217e89d80a29c444546.js",
-  "service-worker.js": "/360-image-viewer/service-worker.js"
+  "main.css": "/static/css/main.c4f3151a.chunk.css",
+  "main.js": "/static/js/main.6557391b.chunk.js",
+  "main.js.map": "/static/js/main.6557391b.chunk.js.map",
+  "static/js/1.8d7c832e.chunk.js": "/static/js/1.8d7c832e.chunk.js",
+  "static/js/1.8d7c832e.chunk.js.map": "/static/js/1.8d7c832e.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.c4f3151a.chunk.css.map": "/static/css/main.c4f3151a.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.316064c5421ed2cc667e8daaeceeeb82.js": "/precache-manifest.316064c5421ed2cc667e8daaeceeeb82.js",
+  "service-worker.js": "/service-worker.js"
 }
