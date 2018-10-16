@@ -20,7 +20,7 @@ class Image360 extends React.Component {
     const { match } = this.props;
 
     // Recursively decode the url
-    const src = decodeRecursive(match.params.src);
+    const src = this.decodeRecursive(match.params.src);
 
     return (
       <Container>
