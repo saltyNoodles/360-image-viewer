@@ -30,7 +30,7 @@ class Image360 extends React.Component {
             id="camera"
             look-controls={{ reverseMouseDrag: true }}
           >
-            <Entity primitive="a-cursor" />
+            {/* <Entity primitive="a-cursor" /> */}
           </Entity>
           <Entity
             primitive="a-sky"
