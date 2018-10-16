@@ -48,3 +48,5 @@ const Container = styled.div`
   background: black;
   color: white;
 `;
+
+export default Image360;
